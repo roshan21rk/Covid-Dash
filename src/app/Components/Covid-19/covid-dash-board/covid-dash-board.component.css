@@ -1,0 +1,47 @@
+table {
+  width: 40%;
+  margin: 10px 10px 10px 10px;
+}
+#inner-table {
+  margin: auto;
+}
+
+th.mat-sort-header-sorted {
+  color: black;
+}
+tr.example-element-row:not(.example-expanded-row):hover {
+  background: whitesmoke;
+}
+
+tr.example-element-row:not(.example-expanded-row):active {
+  background: #efefef;
+}
+
+.example-element-row td {
+  border-bottom-width: 0;
+}
+
+.example-element-detail {
+  overflow: hidden;
+  display: flex;
+}
+
+.Minigraph.row {
+        margin-left: 0;
+        margin-right: 0;
+        width :0%;
+    }
+     h1 {
+        font-size: 18px!important;
+    }
+    
+   /*  .svg-parent svg:not(:root) {
+        width: 100%;
+    } */
+
+    .countrySide{
+      float : right;
+      width:auto;
+      overflow:hidden;
+    }
+  
